@@ -1,5 +1,5 @@
 # Base image
-FROM daprio/placement:0.9.0
+FROM daprio/placement:0.10.0
 
 # Expose ports
 EXPOSE 3500
